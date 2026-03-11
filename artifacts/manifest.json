@@ -1,0 +1,8 @@
+{
+  "model_name": "google/embeddinggemma-300m",
+  "truncate_dim": 256,
+  "num_documents": 2114,
+  "embedding_dim": 256,
+  "normalized": true,
+  "faiss_index": "IndexFlatIP"
+}
