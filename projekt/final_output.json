@@ -1,0 +1,397 @@
+{
+  "generalno_menje_o_zadevi": "",
+  "table": [
+    {
+      "naslov": "Sistemi za avtomatsko prepoznavo registrskih tablic in izvajanje biometrijskih ukrepov na javnih površinah",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/07121-1-2023-256",
+      "številka": "07121-1/2023/256",
+      "kategorije": [
+        "Video in avdio nadzor",
+        "Pravne podlage"
+      ],
+      "datum": "23.02.2023",
+      "pravna_podlaga": [
+        "80. člen ZVOP-2",
+        "10. odstavek 80. člena ZVOP-2",
+        "3. člen ZUreP-3",
+        "259. člen ZUreP-3",
+        "3. člen GZ-1",
+        "6. člen Splošne uredbe",
+        "9. člen Splošne uredbe"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Trgovski center razpolaga s pripadajočim zemljiščem, na katerem je urejeno nadzorovano parkirišče z zapornicami in plačilom parkirnine. Zaprositelj za mnenje želi pojasnilo, ali se takšno parkirišče šteje za javno površino in ali zanj velja prepoved uporabe sistemov za avtomatsko prepoznavo registrskih tablic.",
+        "pravno_vprašanje": "Ali se parkirišče trgovskega centra v zasebni lasti, ki je dostopno javnosti pod enakimi pogoji, šteje za javno površino po ZVOP-2 in ali je na njem prepovedana uporaba sistemov za avtomatsko prepoznavo registrskih tablic?",
+        "odgovor": "Parkirišče trgovskega centra, ki je namenjeno splošni rabi, se šteje za javno površino ne glede na lastništvo. Na javnih površinah je uporaba sistemov za avtomatsko prepoznavo registrskih tablic prepovedana, če obdelava temelji na zakonski obveznosti ali javnem interesu, medtem ko je uporaba sistemov za obdelavo biometričnih osebnih podatkov na javnih površinah absolutno prepovedana.",
+        "success": true
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/videonadzor-javnih-površin-1677224569"
+    },
+    {
+      "naslov": "Obdelava osebnih podatkov v sklepu o dodelitvi (oz. nedodelitvi) službenih stanovanj na razpisu za oddajo službenih stanovanj",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/obdelava-osebnih-podatkov-v-sklepu-o-dodelitvi-oz-nedodelitvi-službenih-stanovanj-na-razpisu-za-oddajo-službenih-stanovanj",
+      "številka": "07120-1/2023/468",
+      "kategorije": [
+        "Delovna razmerja",
+        "Uradni postopki"
+      ],
+      "datum": "24.10.2023",
+      "pravna_podlaga": [
+        "točka c prvega odstavka 6. člena Splošne uredbe",
+        "točka e prvega odstavka 6. člena Splošne uredbe",
+        "Zakon o dostopu do informacij javnega značaja (ZDIJZ)"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Državni organ v okviru razpisa za oddajo službenih stanovanj za določen čas izdaja enoten sklep o dodelitvi oz. nedodelitvi stanovanj. V sklepu so navedeni osebni podatki izbranih kandidatov ter ime in priimek neuspešnih prosilcev z navedbo, da niso bili uspešni, v obrazložitvi pa so pojasnjene posamezne odločitve brez razkritja točkovanja po kriterijih.",
+        "pravno_vprašanje": "Ali je dopustna obdelava osebnih podatkov izbranih in neuspešnih kandidatov v enotnem sklepu o dodelitvi službenih stanovanj, ki ga izda državni organ?",
+        "odgovor": "Pravna podlaga za navedbo osebnih podatkov v sklepu načeloma izhaja iz predpisov, ki urejajo vodenje samega postopka, v povezavi s točkama (c) ali (e) prvega odstavka 6. člena Splošne uredbe, ob upoštevanju načela sorazmernosti. S sklepom se lahko zakonito seznanijo le osebe, ki jim mora biti vročen v skladu s postopkovnimi predpisi, te pa morajo podatke ustrezno varovati in jih ne smejo razkrivati tretjim osebam brez podlage."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-v-sklepu-o-dodelitvi-oz-nedodelitvi-službenih-stanovanj-na-razpisu-za-oddajo-službenih-stanovanj-1704789694"
+    },
+    {
+      "naslov": "Objava podatkov registriranih vozil",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/07121-1-2024-1395",
+      "številka": "07121-1/2024/1395",
+      "kategorije": [
+        "Anonimizacija/psevdonimizacija",
+        "Pridobivanje OP iz zbirk",
+        "Svetovni splet"
+      ],
+      "datum": "12.11.2024",
+      "pravna_podlaga": [],
+      "povzetek": {
+        "dejansko_stanje": "Zaprositelj za mnenje je podal dodatno zaprosilo glede definicije osebnega podatka v povezavi z VIN številko vozila in vprašal, kdaj bo znano, katere podatke je dopustno obdelovati v zvezi z VIN.",
+        "pravno_vprašanje": "Kdaj bo zakonsko urejeno in znano, kateri podatki v zvezi z VIN številko se lahko dopustno obdelujejo?",
+        "odgovor": "Informacijski pooblaščenec nima neposrednega vpliva na pripravo zakonskih sprememb ali tek zakonodajnega postopka, zato se je za vprašanja glede ureditve javne objave podatkov o vozilih treba obrniti na pristojno ministrstvo za infrastrukturo."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/objava-podatkov-registriranih-vozil-1736160616"
+    },
+    {
+      "naslov": "Objava podatkov registriranih vozil",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/objava-podatkov-registriranih-vozil",
+      "številka": "07121-1/2024/968",
+      "kategorije": [
+        "Definicija OP",
+        "Pravne podlage",
+        "Pridobivanje OP iz zbirk",
+        "Svetovni splet",
+        "Zbirke osebnih podatkov"
+      ],
+      "datum": "26.08.2024",
+      "pravna_podlaga": [
+        "Uredba (EU) 2016/679",
+        "Zakon o motornih vozilih (ZMV-1)",
+        "Izvedbena uredba Komisije (EU) 2021/392"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Zaprositelj za mnenje je poizvedoval o prenehanju objave podatkov o registriranih vozilih na portalu OPSI s strani Ministrstva za infrastrukturo. Ministrstvo je objavljalo identifikacijske številke vozil (VIN) in tehnične podatke, ki se po evropski praksi štejejo za osebne podatke.",
+        "pravno_vprašanje": "Ali identifikacijska številka vozila (VIN) predstavlja osebni podatek in ali obstaja pravna podlaga za javno objavo podatkov iz evidence registriranih vozil?",
+        "odgovor": "Identifikacijska številka vozila (VIN) se šteje za osebni podatek, saj omogoča identifikacijo lastnika ali uporabnika vozila. Veljavni Zakon o motornih vozilih ne določa javne dostopnosti evidence registriranih vozil, zato za javno objavo teh podatkov na portalu OPSI trenutno ni ustrezne zakonske podlage."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/objava-podatkov-registriranih-vozil-1724752777"
+    },
+    {
+      "naslov": "Obdelava osebnih podatkov zaradi najema nadomestnega avtomobila",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/obdelava-osebnih-podatkov-zaradi-najema-nadomestnega-avtomobila",
+      "številka": "07121-1/2023/922",
+      "kategorije": [
+        "Informiranje posameznika",
+        "Pravica do seznanitve z lastnimi osebnimi podatki",
+        "Zavarovalništvo"
+      ],
+      "datum": "10.07.2023",
+      "pravna_podlaga": [
+        "člen 6(1)(b) Splošne uredbe",
+        "člen 13 Splošne uredbe",
+        "prvi odstavek 94. člena ZVOP-2",
+        "sedmi odstavek 28. člena Zakona o motornih vozilih",
+        "člen 15 Splošne uredbe"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Zavarovanec ima pri zavarovalnici sklenjeno zavarovanje, ki vključuje najem nadomestnega vozila pri pogodbeni avto hiši. Avto hiša ob predaji vozila poleg vozniškega dovoljenja zahteva še vpogled v osebno izkaznico in bančno kartico, čeprav zaprositelj za mnenje meni, da s temi podatki že razpolaga zavarovalnica.",
+        "pravno_vprašanje": "Katere osebne podatke lahko avto hiša zahteva od posameznika za namen najema nadomestnega vozila in ali je zahteva po podatkih z osebne izkaznice ter bančne kartice upravičena?",
+        "odgovor": "Pravna podlaga za obdelavo osebnih podatkov s strani avto hiše je praviloma izvajanje pogodbe o najemu vozila skladno s členom 6(1)(b) Splošne uredbe, pri čemer se smejo obdelovati le tisti podatki, ki so za ta namen nujno potrebni (načelo najmanjšega obsega podatkov). Upravljavec sme za namen identifikacije vpogledati v uradne identifikacijske dokumente na podlagi 94. člena ZVOP-2, uporabnik vozila pa mora imeti veljavno vozniško dovoljenje. Pred posredovanjem podatkov mora biti posameznik obveščen o namenih in pravni podlagi obdelave skladno s členom 13 Splošne uredbe."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-zaradi-najema-nadomestnega-avtomobila-1689662847"
+    },
+    {
+      "naslov": "Objava osebnih podatkov na podlagi 131. in 132. člena Zakona o obnovi, razvoju in zagotavljanju finančnih sredstev",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/objava-osebnih-podatkov-na-podlagi-131-in-132-%C4%8Dlena-zakona-o-obnovi-razvoju-in-zagotavljanju-finan%C4%8Dnih-sredstev",
+      "številka": "07120-1/2024/55",
+      "kategorije": [
+        "Svetovni splet",
+        "Uradni postopki"
+      ],
+      "datum": "13.02.2024",
+      "pravna_podlaga": [
+        "131. člen Zakona o obnovi, razvoju in zagotavljanju finančnih sredstev (ZORZFS)",
+        "132. člen Zakona o obnovi, razvoju in zagotavljanju finančnih sredstev (ZORZFS)",
+        "28. člen Splošne uredbe"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Urad vlade RS za komuniciranje je zaprosil za mnenje glede pravne podlage za javno objavo podatkov o izplačanih sredstvih, prejemnikih, donacijah in donatorjih na spletu na podlagi določb ZORZFS.",
+        "pravno_vprašanje": "Kakšna je pravna podlaga za javno objavo osebnih podatkov o prejemnikih pomoči in donatorjih na podlagi 131. in 132. člena ZORZFS?",
+        "odgovor": "Pravno podlago za objavo seznama upravičenih prejemnikov pomoči in donatorjev (ob predhodnem soglasju slednjih) predstavljata 131. in 132. člen ZORZFS, pri čemer je za zagotavljanje točnosti in izvedbo objave pristojna Vladna služba za obnovo, ki lahko za tehnično izvedbo angažira pogodbenega obdelovalca."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/objava-osebnih-podatkov-na-podlagi-131-in-132-člena-zakona-o-obnovi-razvoju-in-zagotavljanju-finančnih-sredstev-1726725612"
+    },
+    {
+      "naslov\": \"Hramba posebnih vrst osebnih podatkov v upravnem spisu po pravnomočnosti odločitve upravnega organa\",\n  \"URL\": \"https": "",
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/hramba-posebnih-vrst-osebnih-podatkov-v-upravnem-spisu-po-pravnomočnosti-odločitve-upravnega-organa-1681989529"
+    },
+    {
+      "naslov": "Ali je številka merilnega mesta osebni podatek",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/ali-je-%C5%A1tevilka-merilnega-mesta-osebni-podatek",
+      "številka": "07121-1/2023/799",
+      "kategorije": [
+        "Definicija OP",
+        "Stanovanjsko in nepremičninsko pravo"
+      ],
+      "datum": "14.06.2023",
+      "pravna_podlaga": [
+        "člen 4(1) Splošne uredbe"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Zaprositelj za mnenje poizveduje, ali se številka merilnega mesta šteje za osebni podatek.",
+        "pravno_vprašanje": "Ali se številka merilnega mesta v kontekstu določljivosti posameznika šteje za osebni podatek po Splošni uredbi o varstvu podatkov?",
+        "odgovor": "Številka merilnega mesta se šteje za osebni podatek, če omogoča neposredno ali posredno določitev konkretnega posameznika, pri čemer se določljivost presoja široko, upoštevajoč tudi možnost identifikacije s strani tretjih oseb."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/ali-je-številka-merilnega-mesta-osebni-podatek-1687330315"
+    },
+    {
+      "naslov": "Posredovaje dodatnih identifikacijskih osebnih podatkov prejemnikov pomoči ob poplavah ministrstvu",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/posredovaje-dodatnih-identifikacijskih-osebnih-podatkov-prejemnikov-pomo%C4%8Di-ob-poplavah-ministrstvu",
+      "številka": "07120-1/2024/154",
+      "kategorije": [
+        "Posredovanje osebnih podatkov",
+        "Pravne podlage",
+        "Pridobivanje OP iz zbirk",
+        "Zbirke osebnih podatkov"
+      ],
+      "datum": "18.04.2024",
+      "pravna_podlaga": [
+        "6. člen Splošne uredbe",
+        "9. člen Splošne uredbe",
+        "131. člen Zakona o obnovi, razvoju in zagotavljanju finančnih sredstev (ZORZFS)",
+        "47. člen Zakona o odpravi posledic naravnih nesreč (ZOPNN)",
+        "41. člen ZVOP-2",
+        "6. člen ZVOP-2",
+        "158. člen Zakona o interventnih ukrepih za odpravo posledic poplav in zemeljskih plazov iz avgusta 2023 (ZIUOPZP)"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Slovenska Karitas je razdelila pomoč gospodinjstvom, prizadetim v poplavah. Ministrstvo za naravne vire in prostor je od Slovenske Karitas zahtevalo dodatne identifikacijske podatke (EMŠO, davčna številka) o prejemnikih pomoči za namene dokončnega poračuna sredstev, saj javno objavljeni podatki ne omogočajo natančne identifikacije.",
+        "pravno_vprašanje": "Ali je Ministrstvo za naravne vire in prostor na podlagi 47. člena ZOPNN upravičeno od Slovenske karitas pridobiti dodatne osebne podatke o oškodovanih osebah?",
+        "odgovor": "Ministrstvo nima pravne podlage v 131. členu ZORZFS ali 47. členu ZOPNN, da bi od humanitarnih organizacij zahtevalo dodatne enolične identifikatorje prejemnikov pomoči. Humanitarne organizacije niso navedene kot zavezanci za posredovanje podatkov po 47. členu ZOPNN, prav tako pa ta člen ne predvideva obdelave EMŠO ali davčne številke."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/posredovaje-dodatnih-identifikacijskih-osebnih-podatkov-prejemnikov-pomoči-ob-poplavah-ministrstvu-1714392799"
+    },
+    {
+      "naslov\": \"Javno dostopna davčna številka samostojnega podjetnika na AJPES v postopkih preverjanja identitete posameznika\",\n  \"URL\": \"https": "",
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/javno-dostopna-davčna-številka-samostojnega-podjetnika-na-ajpes-v-postopkih-preverjanja-identitete-posameznika-1694684005"
+    },
+    {
+      "naslov": "Posredovanje podatkov o lastniku motornega vozila",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/posredovanje-podatkov-o-lastniku-motornega-vozila-1717405200",
+      "številka": "07120-1/2024/216",
+      "kategorije": [
+        "Posredovanje osebnih podatkov",
+        "Pravne podlage",
+        "Pridobivanje OP iz zbirk",
+        "Upravne enote"
+      ],
+      "datum": "03.06.2024",
+      "pravna_podlaga": [
+        "10. člen Zakona o odvetništvu (ZOdv)",
+        "šesti odstavek 64. člena Zakona o motornih vozilih (ZMV-1)",
+        "41. člen Zakona o varstvu osebnih podatkov (ZVOP-2)",
+        "39. člen Zakona o varstvu osebnih podatkov (ZVOP-2)",
+        "točka c prvega odstavka 6. člena Splošne uredbe",
+        "točka e prvega odstavka 6. člena Splošne uredbe",
+        "2. člen Zakona o odvetništvu (ZOdv)"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Upravna enota je prejela zahtevo odvetniške družbe za posredovanje podatkov o lastniku motornega vozila, ki zaseda parkirno mesto odvetniške družbe v parkirni hiši. Odvetniška družba zahtevo utemeljuje s potrebo po vzpostavitvi kontakta z lastnikom vozila za ustrezno ukrepanje.",
+        "pravno_vprašanje": "Ali lahko upravna enota odvetniški družbi posreduje osebne podatke lastnika motornega vozila iz evidence registriranih vozil za namen reševanja zasedbe parkirnega mesta?",
+        "odgovor": "Odvetnik lahko pridobi osebne podatke lastnika motornega vozila od upravne enote na podlagi 10. člena ZOdv v povezavi s šestim odstavkom 64. člena ZMV-1, če so podatki potrebni za opravljanje storitev odvetniškega poklica v posamični zadevi. Upravna enota mora v vsakem konkretnem primeru presoditi, ali je odvetnik izkazal potrebo po podatku za konkretno procesno dejanje ali zastopanje, ter o zahtevi odločiti skladno s 41. členom ZVOP-2."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/posredovanje-podatkov-o-lastniku-motornega-vozila-1717401811"
+    },
+    {
+      "naslov": "ANPR na javnih površinah in pridobivanje podatkov iz evidence registriranih vozil",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/07121-1-2025-231",
+      "številka": "07121-1/2025/231",
+      "kategorije": [
+        "Moderne tehnologije",
+        "Pravne podlage",
+        "Pridobivanje OP iz zbirk",
+        "Video in avdio nadzor"
+      ],
+      "datum": "24.02.2025",
+      "pravna_podlaga": [
+        "točka (f) prvega odstavka 6. člena Splošne uredbe",
+        "točka (b) prvega odstavka 6. člena Splošne uredbe",
+        "Zakon o motornih vozilih (ZMV-1)",
+        "Zakon o urejanju prostora (ZUreP-3)"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Trgovski center želi na svojem parkirišču, ki se šteje za javno površino, izvajati avtomatsko prepoznavo registrskih tablic (ANPR) z namenom ugotavljanja identitete voznikov, ki ne plačajo parkirnine, ter pridobivati njihove podatke iz uradne evidence registriranih vozil.",
+        "pravno_vprašanje": "Ali obstaja dopustna pravna podlaga za uporabo sistema ANPR na parkirišču trgovskega centra in ali lahko upravljavec pridobiva podatke o lastnikih vozil neposredno iz evidence registriranih vozil?",
+        "odgovor": "Uporaba sistemov ANPR na javnih površinah je dopustna, če upravljavec izkaže zakoniti interes po točki (f) ali pogodbeno obveznost po točki (b) prvega odstavka 6. člena Splošne uredbe, medtem ko trgovski centri niso upravičeni do dostopa do podatkov iz evidence registriranih vozil po ZMV-1, saj ta ne predvideva dostopa za namen izterjave parkirnine."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/anpr-na-javnih-površinah-in-pridobivanje-podatkov-iz-evidence-registriranih-vozil-1740563880"
+    },
+    {
+      "naslov": "Obdelava osebnih podatkov s strani občine v okviru javnega razpisa",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/obdelava-osebnih-podatkov-s-strani-občine-v-okviru-javnega-razpisa",
+      "številka": "07121-1/2023/1489",
+      "kategorije": [
+        "Občine",
+        "Posredovanje osebnih podatkov",
+        "Pravne podlage"
+      ],
+      "datum": "28.11.2023",
+      "pravna_podlaga": [
+        "točka c) prvega odstavka 6. člena Splošne uredbe",
+        "drugi odstavek 6. člena ZVOP-2",
+        "21. člen Zakona o lokalni samoupravi (ZLS)",
+        "21.a člen Zakona o lokalni samoupravi (ZLS)"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Občina objavlja razpise za sofinanciranje društev in pri tem zahteva predložitev poimenskega seznama članov društva z naslovi stalnih prebivališč.",
+        "pravno_vprašanje": "Ali občina za pridobitev poimenskega seznama članov društva v okviru javnega razpisa potrebuje soglasje teh članov?",
+        "odgovor": "Občina ima za namen odločanja o sofinanciranju in nadzora nad namenskostjo porabe sredstev pravno podlago za obdelavo tistih osebnih podatkov članov društva, ki so potrebni za izvedbo razpisa, zato posebnih privolitev članov ni treba pridobivati, če je takšna obdelava nujna in določena v zakonu oziroma splošnem aktu občine."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-s-strani-občine-v-okviru-javnega-razpisa-1701688300"
+    },
+    {
+      "naslov": "Obdelava osebnih podatkov s strani centrov za socialno delo v postopkih odločanja in izdajanja odločb brez podpore informacijskega sistema po ZDOsk-1",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/obdelava-osebnih-podatkov-s-strani-centrov-za-socialno-delo-v-postopkih-odlo%C4%8Danja-in-izdajanja-odlo%C4%8Db-brez-podpore-informacijskega-sistema-po-zdosk-1",
+      "številka": "07120-1/2025/416",
+      "kategorije": [
+        "Posredovanje osebnih podatkov",
+        "Pravne podlage",
+        "Upravni postopki"
+      ],
+      "datum": "19.09.2025",
+      "pravna_podlaga": [
+        "Zakon o dolgotrajni oskrbi (ZDOsk-1)",
+        "Zakon o splošnem upravnem postopku (ZUP)",
+        "34.a člen ZUP",
+        "139. člen ZUP",
+        "6. člen Splošne uredbe",
+        "9. člen Splošne uredbe",
+        "ZVOP-2",
+        "93. člen ZDOsk-1"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Center za socialno delo (CSD) kot vstopna točka za dolgotrajno oskrbo sprašuje o pravni podlagi za pridobivanje in obdelavo osebnih podatkov vlagateljev z dopisi organom in ročno obdelavo, ker enotni informacijski sistem po ZDOsk-1 še ne deluje.",
+        "pravno_vprašanje": "Ali ima center za socialno delo v postopkih ugotavljanja upravičenosti do dolgotrajne oskrbe pravno podlago za pridobivanje podatkov neposredno od drugih organov na podlagi določb o upravnem postopku, dokler informacijski sistem ni vzpostavljen?",
+        "odgovor": "Centri za socialno delo lahko za potrebe vodenja postopkov po ZDOsk-1 pridobivajo potrebne podatke o vlagateljih od drugih upravljavcev na podlagi 34.a člena oziroma 139. člena ZUP, pri čemer morajo upoštevati načelo najmanjšega obsega podatkov in zahtevo utemeljiti s sklicem na konkretno zadevo."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-s-strani-centrov-za-socialno-delo-v-postopkih-odločanja-in-izdajanja-odločb-brez-podpore-informacijskega-sistema-po-zdosk-1-1758516846"
+    },
+    {
+      "naslov\": \"Pravica dostopa posameznika, na katerega se nanašajo osebni podatki\",\n  \"URL\": \"https": "",
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/pravica-dostopa-posameznika-na-katerega-se-nanašajo-osebni-podatki-1684139114"
+    },
+    {
+      "naslov": "Obdelava osebnih podatkov s strani centrov za socialno delo v postopkih odločanja in izdajanja odločb brez podpore informacijskega sistema po ZDOsk-1 - DOPOLNITEV MNENJA",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/obdelava-osebnih-podatkov-s-strani-centrov-za-socialno-delo-v-postopkih-odlo%C4%8Danja-in-izdajanja-odlo%C4%8Db-brez-podpore-informacijskega-sistema-po-zdosk-1-dopolnitev-mnenja",
+      "številka": "07120-1/2025/437",
+      "kategorije": [
+        "Postopki na centrih za socialno delo"
+      ],
+      "datum": "06.10.2025",
+      "pravna_podlaga": [
+        "Zakon o dolgotrajni oskrbi (ZDOsk-1)",
+        "člen 2(1) Splošne uredbe",
+        "člen 4(6) Splošne uredbe",
+        "člen 6(1) Splošne uredbe",
+        "člen 9(2) Splošne uredbe"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Centri za socialno delo (vhodne točke) v postopkih ročne izdaje odločb za pravico do dolgotrajne oskrbe na domu, zaradi pomanjkanja informacijske podpore, začasno vodijo evidence v programu Excel, ki se nato naložijo v sistem Krpan CSD.",
+        "pravno_vprašanje": "Ali je dopustno, da center za socialno delo v postopkih ročne izdaje odločb po ZDOsk-1 začasno vodi ločene zbirke osebnih podatkov v programu Excel?",
+        "odgovor": "Začasno vodenje evidence v programu Excel ni nedopustno, če ima center za socialno delo pravno podlago za obdelavo teh podatkov, če se v Excelu obdeluje isti nabor podatkov za iste namene kot v primarni aplikaciji ter če je zagotovljen ustrezen nivo varnosti osebnih podatkov."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-s-strani-centrov-za-socialno-delo-v-postopkih-odločanja-in-izdajanja-odločb-brez-podpore-informacijskega-sistema-po-zdosk-1-dopolnitev-mnenja-1759817722"
+    },
+    {
+      "naslov": "Izjema od informacij, ki jih je treba zagotoviti, kadar osebni podatki niso bili pridobljeni od posameznika, na katerega se ti nanašajo",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/07121-1-2025-605",
+      "številka": "07121-1/2025/605",
+      "kategorije": [
+        "Delovna razmerja",
+        "Informiranje posameznika",
+        "Pridobivanje OP iz zbirk"
+      ],
+      "datum": "19.05.2025",
+      "pravna_podlaga": [
+        "14. člen Splošne uredbe o varstvu podatkov",
+        "tretji odstavek 114. člena ZDR-1",
+        "prvi odstavek 114. člena ZDR-1",
+        "5. člen Splošne uredbe o varstvu podatkov"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Delodajalec je od zaposlenega ustno pridobil podatek o predvidenem datumu upokojitve, sedaj pa namerava na podlagi ZDR-1 pridobiti uradne podatke o izpolnjevanju pogojev za starostno pokojnino neposredno od Zavoda za pokojninsko in invalidsko zavarovanje Slovenije.",
+        "pravno_vprašanje": "Ali je delodajalec dolžan obvestiti zaposlenega o pridobitvi njegovih osebnih podatkov iz zbirk Zavoda za pokojninsko in invalidsko zavarovanje Slovenije, če je takšna pridobitev izrecno določena v zakonu?",
+        "odgovor": "Upravljavec ni dolžan obvestiti zaposlenega o pridobitvi podatkov, kadar je ta pridobitev izrecno določena s pravom države članice (npr. tretji odstavek 114. člena ZDR-1), ki določa ustrezne ukrepe za zaščito zakonitih interesov posameznika, skladno s točko (c) petega odstavka 14. člena Splošne uredbe."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/izjema-od-informacij-ki-jih-je-treba-zagotoviti-kadar-osebni-podatki-niso-bili-pridobljeni-od-posameznika-na-katerega-se-ti-nanašajo-1747733273"
+    },
+    {
+      "naslov\": \"Pravica dostopa posameznika, na katerega se nanašajo osebni podatki\",\n  \"URL\": \"https": "",
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/pravica-dostopa-posameznika-na-katerega-se-nanašajo-osebni-podatki-1678442779"
+    },
+    {
+      "naslov": "Obdelava osebnih podatkov za namene akreditacije, organizacije dogodkov in prevozov v okviru Sistema za akreditacije in organizacijo dogodkov in prevozov (SAOD)",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/obdelava-osebnih-podatkov-za-namene-akreditacije-organizacije-dogodkov-in-prevozov-v-okviru-sistema-za-akreditacije-in-organizacijo-dogodkov-in-prevozov-saod",
+      "številka": "07120-1/2024/8",
+      "kategorije": [
+        "Informiranje posameznika",
+        "Pravne podlage",
+        "Skupni upravljavci",
+        "Zbirke osebnih podatkov"
+      ],
+      "datum": "09.01.2024",
+      "pravna_podlaga": [
+        "točka (e) prvega odstavka 6. člena Splošne uredbe",
+        "drugi odstavek 6. člena ZVOP-2",
+        "93. člen ZVOP-2",
+        "četrti odstavek 6. člena ZVOP-2",
+        "5. člen Splošne uredbe",
+        "26. člen Splošne uredbe",
+        "32. člen Splošne uredbe",
+        "22. člen ZVOP-2",
+        "41. člen ZVOP-2"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Vladni urad zagotavlja komunikacijsko podporo ob dogodkih državnega pomena in organizira novinarske konference. Za poenostavitev prijavljanja je vzpostavil spletno aplikacijo SAOD za zbiranje podatkov za akreditacije, vendar se sooča z dilemo glede ustreznosti pravne podlage v Sklepu o nalogah urada iz leta 2007.",
+        "pravno_vprašanje": "Ali Sklep o nalogah vladnega urada predstavlja primerno zakonsko podlago za zbiranje osebnih podatkov v okviru sistema SAOD?",
+        "odgovor": "Sklep o nalogah ali medsebojni dogovor ne moreta biti pravna podlaga za obdelavo; to mora določati zakon skladno s Splošno uredbo in ZVOP-2. Kot primerna podlaga se lahko upošteva 93. člen ZVOP-2, ki ureja obdelavo kontaktnih podatkov za organizacijo uradnih dogodkov, ali izjemoma četrti odstavek 6. člena ZVOP-2, če so izpolnjeni pogoji o nujnosti za izvajanje nalog javnega sektorja."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-za-namene-akreditacije-organizacije-dogodkov-in-prevozov-v-okviru-sistema-za-akreditacije-in-organizacijo-dogodkov-in-prevozov-saod-1706000231"
+    },
+    {
+      "naslov": "Pravna podlaga za obdelavo podatkov dobavitelja plina (dodatno)",
+      "URL": "https://www.ip-rs.si/mnenja-gdpr/pravna-podlaga-za-obdelavo-podatkov-dobavitelja-plina-dodatno",
+      "številka": "07121-1/2023/555",
+      "kategorije": [
+        "Pravne podlage"
+      ],
+      "datum": "25.04.2023",
+      "pravna_podlaga": [
+        "76. člen Zakona o varstvu osebnih podatkov na področju obravnavanja kaznivih dejanj (ZVOPOKD)",
+        "točka (c) prvega odstavka 6. člena Splošne uredbe",
+        "drugi odstavek 6. člena ZVOP-2",
+        "134. člen Zakona o oskrbi s plini (ZOP)"
+      ],
+      "povzetek": {
+        "dejansko_stanje": "Zaprositelj za mnenje je zaprosil za dodatna pojasnila glede pravne podlage za obdelavo osebnih podatkov uporabnikov sistema s strani dobaviteljev plina, konkretno ali 134. člen ZOP zahteva pogodbo ali privolitev tudi za podatke iz drugega odstavka tega člena.",
+        "pravno_vprašanje": "Ali drugi odstavek 134. člena ZOP predstavlja samostojno zakonsko pravno podlago za obdelavo tam naštetih osebnih podatkov uporabnikov sistema?",
+        "odgovor": "Pravno podlago za obdelavo podatkov, ki so taksativno našteti v drugem odstavku 134. člena ZOP, predstavlja zakon v smislu točke (c) prvega odstavka 6. člena Splošne uredbe in drugega odstavka 6. člena ZVOP-2. Namen in pravna podlaga sta ločena koncepta; medtem ko tretji in četrti odstavek 134. člena ZOP določata upravljavce in namene (ki lahko vključujejo pogodbo ali privolitev), drugi odstavek sam po sebi določa nabor podatkov, katerih obdelava temelji na zakonski obveznosti."
+      },
+      "url": "https://www.ip-rs.si/mnenja-zvop-2/pravna-podlaga-za-obdelavo-podatkov-dobavitelja-plina-dodatno-1683530963"
+    }
+  ]
+}

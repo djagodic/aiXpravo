@@ -1,0 +1,29 @@
+{
+  "naslov": "Obdelava osebnih podatkov za namene akreditacije, organizacije dogodkov in prevozov v okviru Sistema za akreditacije in organizacijo dogodkov in prevozov (SAOD)",
+  "URL": "https://www.ip-rs.si/mnenja-gdpr/obdelava-osebnih-podatkov-za-namene-akreditacije-organizacije-dogodkov-in-prevozov-v-okviru-sistema-za-akreditacije-in-organizacijo-dogodkov-in-prevozov-saod",
+  "številka": "07120-1/2024/8",
+  "kategorije": [
+    "Informiranje posameznika",
+    "Pravne podlage",
+    "Skupni upravljavci",
+    "Zbirke osebnih podatkov"
+  ],
+  "datum": "09.01.2024",
+  "pravna_podlaga": [
+    "točka (e) prvega odstavka 6. člena Splošne uredbe",
+    "drugi odstavek 6. člena ZVOP-2",
+    "93. člen ZVOP-2",
+    "četrti odstavek 6. člena ZVOP-2",
+    "5. člen Splošne uredbe",
+    "26. člen Splošne uredbe",
+    "32. člen Splošne uredbe",
+    "22. člen ZVOP-2",
+    "41. člen ZVOP-2"
+  ],
+  "povzetek": {
+    "dejansko_stanje": "Vladni urad zagotavlja komunikacijsko podporo ob dogodkih državnega pomena in organizira novinarske konference. Za poenostavitev prijavljanja je vzpostavil spletno aplikacijo SAOD za zbiranje podatkov za akreditacije, vendar se sooča z dilemo glede ustreznosti pravne podlage v Sklepu o nalogah urada iz leta 2007.",
+    "pravno_vprašanje": "Ali Sklep o nalogah vladnega urada predstavlja primerno zakonsko podlago za zbiranje osebnih podatkov v okviru sistema SAOD?",
+    "odgovor": "Sklep o nalogah ali medsebojni dogovor ne moreta biti pravna podlaga za obdelavo; to mora določati zakon skladno s Splošno uredbo in ZVOP-2. Kot primerna podlaga se lahko upošteva 93. člen ZVOP-2, ki ureja obdelavo kontaktnih podatkov za organizacijo uradnih dogodkov, ali izjemoma četrti odstavek 6. člena ZVOP-2, če so izpolnjeni pogoji o nujnosti za izvajanje nalog javnega sektorja."
+  },
+  "url": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-za-namene-akreditacije-organizacije-dogodkov-in-prevozov-v-okviru-sistema-za-akreditacije-in-organizacijo-dogodkov-in-prevozov-saod-1706000231"
+}

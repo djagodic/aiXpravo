@@ -1,0 +1,27 @@
+{
+  "naslov": "Posredovanje podatkov o lastniku motornega vozila",
+  "URL": "https://www.ip-rs.si/mnenja-gdpr/posredovanje-podatkov-o-lastniku-motornega-vozila-1717405200",
+  "številka": "07120-1/2024/216",
+  "kategorije": [
+    "Posredovanje osebnih podatkov",
+    "Pravne podlage",
+    "Pridobivanje OP iz zbirk",
+    "Upravne enote"
+  ],
+  "datum": "03.06.2024",
+  "pravna_podlaga": [
+    "10. člen Zakona o odvetništvu (ZOdv)",
+    "šesti odstavek 64. člena Zakona o motornih vozilih (ZMV-1)",
+    "41. člen Zakona o varstvu osebnih podatkov (ZVOP-2)",
+    "39. člen Zakona o varstvu osebnih podatkov (ZVOP-2)",
+    "točka c prvega odstavka 6. člena Splošne uredbe",
+    "točka e prvega odstavka 6. člena Splošne uredbe",
+    "2. člen Zakona o odvetništvu (ZOdv)"
+  ],
+  "povzetek": {
+    "dejansko_stanje": "Upravna enota je prejela zahtevo odvetniške družbe za posredovanje podatkov o lastniku motornega vozila, ki zaseda parkirno mesto odvetniške družbe v parkirni hiši. Odvetniška družba zahtevo utemeljuje s potrebo po vzpostavitvi kontakta z lastnikom vozila za ustrezno ukrepanje.",
+    "pravno_vprašanje": "Ali lahko upravna enota odvetniški družbi posreduje osebne podatke lastnika motornega vozila iz evidence registriranih vozil za namen reševanja zasedbe parkirnega mesta?",
+    "odgovor": "Odvetnik lahko pridobi osebne podatke lastnika motornega vozila od upravne enote na podlagi 10. člena ZOdv v povezavi s šestim odstavkom 64. člena ZMV-1, če so podatki potrebni za opravljanje storitev odvetniškega poklica v posamični zadevi. Upravna enota mora v vsakem konkretnem primeru presoditi, ali je odvetnik izkazal potrebo po podatku za konkretno procesno dejanje ali zastopanje, ter o zahtevi odločiti skladno s 41. členom ZVOP-2."
+  },
+  "url": "https://www.ip-rs.si/mnenja-zvop-2/posredovanje-podatkov-o-lastniku-motornega-vozila-1717401811"
+}

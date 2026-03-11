@@ -1,0 +1,27 @@
+{
+  "naslov": "Obdelava osebnih podatkov s strani centrov za socialno delo v postopkih odločanja in izdajanja odločb brez podpore informacijskega sistema po ZDOsk-1",
+  "URL": "https://www.ip-rs.si/mnenja-gdpr/obdelava-osebnih-podatkov-s-strani-centrov-za-socialno-delo-v-postopkih-odlo%C4%8Danja-in-izdajanja-odlo%C4%8Db-brez-podpore-informacijskega-sistema-po-zdosk-1",
+  "številka": "07120-1/2025/416",
+  "kategorije": [
+    "Posredovanje osebnih podatkov",
+    "Pravne podlage",
+    "Upravni postopki"
+  ],
+  "datum": "19.09.2025",
+  "pravna_podlaga": [
+    "Zakon o dolgotrajni oskrbi (ZDOsk-1)",
+    "Zakon o splošnem upravnem postopku (ZUP)",
+    "34.a člen ZUP",
+    "139. člen ZUP",
+    "6. člen Splošne uredbe",
+    "9. člen Splošne uredbe",
+    "ZVOP-2",
+    "93. člen ZDOsk-1"
+  ],
+  "povzetek": {
+    "dejansko_stanje": "Center za socialno delo (CSD) kot vstopna točka za dolgotrajno oskrbo sprašuje o pravni podlagi za pridobivanje in obdelavo osebnih podatkov vlagateljev z dopisi organom in ročno obdelavo, ker enotni informacijski sistem po ZDOsk-1 še ne deluje.",
+    "pravno_vprašanje": "Ali ima center za socialno delo v postopkih ugotavljanja upravičenosti do dolgotrajne oskrbe pravno podlago za pridobivanje podatkov neposredno od drugih organov na podlagi določb o upravnem postopku, dokler informacijski sistem ni vzpostavljen?",
+    "odgovor": "Centri za socialno delo lahko za potrebe vodenja postopkov po ZDOsk-1 pridobivajo potrebne podatke o vlagateljih od drugih upravljavcev na podlagi 34.a člena oziroma 139. člena ZUP, pri čemer morajo upoštevati načelo najmanjšega obsega podatkov in zahtevo utemeljiti s sklicem na konkretno zadevo."
+  },
+  "url": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-s-strani-centrov-za-socialno-delo-v-postopkih-odločanja-in-izdajanja-odločb-brez-podpore-informacijskega-sistema-po-zdosk-1-1758516846"
+}

@@ -1,0 +1,26 @@
+{
+  "naslov": "Sistemi za avtomatsko prepoznavo registrskih tablic in izvajanje biometrijskih ukrepov na javnih površinah",
+  "URL": "https://www.ip-rs.si/mnenja-gdpr/07121-1-2023-256",
+  "številka": "07121-1/2023/256",
+  "kategorije": [
+    "Video in avdio nadzor",
+    "Pravne podlage"
+  ],
+  "datum": "23.02.2023",
+  "pravna_podlaga": [
+    "80. člen ZVOP-2",
+    "10. odstavek 80. člena ZVOP-2",
+    "3. člen ZUreP-3",
+    "259. člen ZUreP-3",
+    "3. člen GZ-1",
+    "6. člen Splošne uredbe",
+    "9. člen Splošne uredbe"
+  ],
+  "povzetek": {
+    "dejansko_stanje": "Trgovski center razpolaga s pripadajočim zemljiščem, na katerem je urejeno nadzorovano parkirišče z zapornicami in plačilom parkirnine. Zaprositelj za mnenje želi pojasnilo, ali se takšno parkirišče šteje za javno površino in ali zanj velja prepoved uporabe sistemov za avtomatsko prepoznavo registrskih tablic.",
+    "pravno_vprašanje": "Ali se parkirišče trgovskega centra v zasebni lasti, ki je dostopno javnosti pod enakimi pogoji, šteje za javno površino po ZVOP-2 in ali je na njem prepovedana uporaba sistemov za avtomatsko prepoznavo registrskih tablic?",
+    "odgovor": "Parkirišče trgovskega centra, ki je namenjeno splošni rabi, se šteje za javno površino ne glede na lastništvo. Na javnih površinah je uporaba sistemov za avtomatsko prepoznavo registrskih tablic prepovedana, če obdelava temelji na zakonski obveznosti ali javnem interesu, medtem ko je uporaba sistemov za obdelavo biometričnih osebnih podatkov na javnih površinah absolutno prepovedana.",
+    "success": true
+  },
+  "url": "https://www.ip-rs.si/mnenja-zvop-2/videonadzor-javnih-površin-1677224569"
+}

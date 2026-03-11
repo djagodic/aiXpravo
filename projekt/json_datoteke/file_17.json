@@ -1,0 +1,23 @@
+{
+  "naslov": "Izjema od informacij, ki jih je treba zagotoviti, kadar osebni podatki niso bili pridobljeni od posameznika, na katerega se ti nanašajo",
+  "URL": "https://www.ip-rs.si/mnenja-gdpr/07121-1-2025-605",
+  "številka": "07121-1/2025/605",
+  "kategorije": [
+    "Delovna razmerja",
+    "Informiranje posameznika",
+    "Pridobivanje OP iz zbirk"
+  ],
+  "datum": "19.05.2025",
+  "pravna_podlaga": [
+    "14. člen Splošne uredbe o varstvu podatkov",
+    "tretji odstavek 114. člena ZDR-1",
+    "prvi odstavek 114. člena ZDR-1",
+    "5. člen Splošne uredbe o varstvu podatkov"
+  ],
+  "povzetek": {
+    "dejansko_stanje": "Delodajalec je od zaposlenega ustno pridobil podatek o predvidenem datumu upokojitve, sedaj pa namerava na podlagi ZDR-1 pridobiti uradne podatke o izpolnjevanju pogojev za starostno pokojnino neposredno od Zavoda za pokojninsko in invalidsko zavarovanje Slovenije.",
+    "pravno_vprašanje": "Ali je delodajalec dolžan obvestiti zaposlenega o pridobitvi njegovih osebnih podatkov iz zbirk Zavoda za pokojninsko in invalidsko zavarovanje Slovenije, če je takšna pridobitev izrecno določena v zakonu?",
+    "odgovor": "Upravljavec ni dolžan obvestiti zaposlenega o pridobitvi podatkov, kadar je ta pridobitev izrecno določena s pravom države članice (npr. tretji odstavek 114. člena ZDR-1), ki določa ustrezne ukrepe za zaščito zakonitih interesov posameznika, skladno s točko (c) petega odstavka 14. člena Splošne uredbe."
+  },
+  "url": "https://www.ip-rs.si/mnenja-zvop-2/izjema-od-informacij-ki-jih-je-treba-zagotoviti-kadar-osebni-podatki-niso-bili-pridobljeni-od-posameznika-na-katerega-se-ti-nanašajo-1747733273"
+}

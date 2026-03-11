@@ -1,0 +1,24 @@
+{
+  "naslov": "ANPR na javnih površinah in pridobivanje podatkov iz evidence registriranih vozil",
+  "URL": "https://www.ip-rs.si/mnenja-gdpr/07121-1-2025-231",
+  "številka": "07121-1/2025/231",
+  "kategorije": [
+    "Moderne tehnologije",
+    "Pravne podlage",
+    "Pridobivanje OP iz zbirk",
+    "Video in avdio nadzor"
+  ],
+  "datum": "24.02.2025",
+  "pravna_podlaga": [
+    "točka (f) prvega odstavka 6. člena Splošne uredbe",
+    "točka (b) prvega odstavka 6. člena Splošne uredbe",
+    "Zakon o motornih vozilih (ZMV-1)",
+    "Zakon o urejanju prostora (ZUreP-3)"
+  ],
+  "povzetek": {
+    "dejansko_stanje": "Trgovski center želi na svojem parkirišču, ki se šteje za javno površino, izvajati avtomatsko prepoznavo registrskih tablic (ANPR) z namenom ugotavljanja identitete voznikov, ki ne plačajo parkirnine, ter pridobivati njihove podatke iz uradne evidence registriranih vozil.",
+    "pravno_vprašanje": "Ali obstaja dopustna pravna podlaga za uporabo sistema ANPR na parkirišču trgovskega centra in ali lahko upravljavec pridobiva podatke o lastnikih vozil neposredno iz evidence registriranih vozil?",
+    "odgovor": "Uporaba sistemov ANPR na javnih površinah je dopustna, če upravljavec izkaže zakoniti interes po točki (f) ali pogodbeno obveznost po točki (b) prvega odstavka 6. člena Splošne uredbe, medtem ko trgovski centri niso upravičeni do dostopa do podatkov iz evidence registriranih vozil po ZMV-1, saj ta ne predvideva dostopa za namen izterjave parkirnine."
+  },
+  "url": "https://www.ip-rs.si/mnenja-zvop-2/anpr-na-javnih-površinah-in-pridobivanje-podatkov-iz-evidence-registriranih-vozil-1740563880"
+}

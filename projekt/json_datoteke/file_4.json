@@ -1,0 +1,24 @@
+{
+  "naslov": "Objava podatkov registriranih vozil",
+  "URL": "https://www.ip-rs.si/mnenja-gdpr/objava-podatkov-registriranih-vozil",
+  "številka": "07121-1/2024/968",
+  "kategorije": [
+    "Definicija OP",
+    "Pravne podlage",
+    "Pridobivanje OP iz zbirk",
+    "Svetovni splet",
+    "Zbirke osebnih podatkov"
+  ],
+  "datum": "26.08.2024",
+  "pravna_podlaga": [
+    "Uredba (EU) 2016/679",
+    "Zakon o motornih vozilih (ZMV-1)",
+    "Izvedbena uredba Komisije (EU) 2021/392"
+  ],
+  "povzetek": {
+    "dejansko_stanje": "Zaprositelj za mnenje je poizvedoval o prenehanju objave podatkov o registriranih vozilih na portalu OPSI s strani Ministrstva za infrastrukturo. Ministrstvo je objavljalo identifikacijske številke vozil (VIN) in tehnične podatke, ki se po evropski praksi štejejo za osebne podatke.",
+    "pravno_vprašanje": "Ali identifikacijska številka vozila (VIN) predstavlja osebni podatek in ali obstaja pravna podlaga za javno objavo podatkov iz evidence registriranih vozil?",
+    "odgovor": "Identifikacijska številka vozila (VIN) se šteje za osebni podatek, saj omogoča identifikacijo lastnika ali uporabnika vozila. Veljavni Zakon o motornih vozilih ne določa javne dostopnosti evidence registriranih vozil, zato za javno objavo teh podatkov na portalu OPSI trenutno ni ustrezne zakonske podlage."
+  },
+  "url": "https://www.ip-rs.si/mnenja-zvop-2/objava-podatkov-registriranih-vozil-1724752777"
+}

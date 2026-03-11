@@ -1,0 +1,24 @@
+{
+  "naslov": "Obdelava osebnih podatkov zaradi najema nadomestnega avtomobila",
+  "URL": "https://www.ip-rs.si/mnenja-gdpr/obdelava-osebnih-podatkov-zaradi-najema-nadomestnega-avtomobila",
+  "številka": "07121-1/2023/922",
+  "kategorije": [
+    "Informiranje posameznika",
+    "Pravica do seznanitve z lastnimi osebnimi podatki",
+    "Zavarovalništvo"
+  ],
+  "datum": "10.07.2023",
+  "pravna_podlaga": [
+    "člen 6(1)(b) Splošne uredbe",
+    "člen 13 Splošne uredbe",
+    "prvi odstavek 94. člena ZVOP-2",
+    "sedmi odstavek 28. člena Zakona o motornih vozilih",
+    "člen 15 Splošne uredbe"
+  ],
+  "povzetek": {
+    "dejansko_stanje": "Zavarovanec ima pri zavarovalnici sklenjeno zavarovanje, ki vključuje najem nadomestnega vozila pri pogodbeni avto hiši. Avto hiša ob predaji vozila poleg vozniškega dovoljenja zahteva še vpogled v osebno izkaznico in bančno kartico, čeprav zaprositelj za mnenje meni, da s temi podatki že razpolaga zavarovalnica.",
+    "pravno_vprašanje": "Katere osebne podatke lahko avto hiša zahteva od posameznika za namen najema nadomestnega vozila in ali je zahteva po podatkih z osebne izkaznice ter bančne kartice upravičena?",
+    "odgovor": "Pravna podlaga za obdelavo osebnih podatkov s strani avto hiše je praviloma izvajanje pogodbe o najemu vozila skladno s členom 6(1)(b) Splošne uredbe, pri čemer se smejo obdelovati le tisti podatki, ki so za ta namen nujno potrebni (načelo najmanjšega obsega podatkov). Upravljavec sme za namen identifikacije vpogledati v uradne identifikacijske dokumente na podlagi 94. člena ZVOP-2, uporabnik vozila pa mora imeti veljavno vozniško dovoljenje. Pred posredovanjem podatkov mora biti posameznik obveščen o namenih in pravni podlagi obdelave skladno s členom 13 Splošne uredbe."
+  },
+  "url": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-zaradi-najema-nadomestnega-avtomobila-1689662847"
+}

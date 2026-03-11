@@ -1,0 +1,27 @@
+{
+  "naslov": "Posredovaje dodatnih identifikacijskih osebnih podatkov prejemnikov pomoči ob poplavah ministrstvu",
+  "URL": "https://www.ip-rs.si/mnenja-gdpr/posredovaje-dodatnih-identifikacijskih-osebnih-podatkov-prejemnikov-pomo%C4%8Di-ob-poplavah-ministrstvu",
+  "številka": "07120-1/2024/154",
+  "kategorije": [
+    "Posredovanje osebnih podatkov",
+    "Pravne podlage",
+    "Pridobivanje OP iz zbirk",
+    "Zbirke osebnih podatkov"
+  ],
+  "datum": "18.04.2024",
+  "pravna_podlaga": [
+    "6. člen Splošne uredbe",
+    "9. člen Splošne uredbe",
+    "131. člen Zakona o obnovi, razvoju in zagotavljanju finančnih sredstev (ZORZFS)",
+    "47. člen Zakona o odpravi posledic naravnih nesreč (ZOPNN)",
+    "41. člen ZVOP-2",
+    "6. člen ZVOP-2",
+    "158. člen Zakona o interventnih ukrepih za odpravo posledic poplav in zemeljskih plazov iz avgusta 2023 (ZIUOPZP)"
+  ],
+  "povzetek": {
+    "dejansko_stanje": "Slovenska Karitas je razdelila pomoč gospodinjstvom, prizadetim v poplavah. Ministrstvo za naravne vire in prostor je od Slovenske Karitas zahtevalo dodatne identifikacijske podatke (EMŠO, davčna številka) o prejemnikih pomoči za namene dokončnega poračuna sredstev, saj javno objavljeni podatki ne omogočajo natančne identifikacije.",
+    "pravno_vprašanje": "Ali je Ministrstvo za naravne vire in prostor na podlagi 47. člena ZOPNN upravičeno od Slovenske karitas pridobiti dodatne osebne podatke o oškodovanih osebah?",
+    "odgovor": "Ministrstvo nima pravne podlage v 131. členu ZORZFS ali 47. členu ZOPNN, da bi od humanitarnih organizacij zahtevalo dodatne enolične identifikatorje prejemnikov pomoči. Humanitarne organizacije niso navedene kot zavezanci za posredovanje podatkov po 47. členu ZOPNN, prav tako pa ta člen ne predvideva obdelave EMŠO ali davčne številke."
+  },
+  "url": "https://www.ip-rs.si/mnenja-zvop-2/posredovaje-dodatnih-identifikacijskih-osebnih-podatkov-prejemnikov-pomoči-ob-poplavah-ministrstvu-1714392799"
+}

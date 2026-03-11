@@ -1,0 +1,22 @@
+{
+  "naslov": "Obdelava osebnih podatkov s strani centrov za socialno delo v postopkih odločanja in izdajanja odločb brez podpore informacijskega sistema po ZDOsk-1 - DOPOLNITEV MNENJA",
+  "URL": "https://www.ip-rs.si/mnenja-gdpr/obdelava-osebnih-podatkov-s-strani-centrov-za-socialno-delo-v-postopkih-odlo%C4%8Danja-in-izdajanja-odlo%C4%8Db-brez-podpore-informacijskega-sistema-po-zdosk-1-dopolnitev-mnenja",
+  "številka": "07120-1/2025/437",
+  "kategorije": [
+    "Postopki na centrih za socialno delo"
+  ],
+  "datum": "06.10.2025",
+  "pravna_podlaga": [
+    "Zakon o dolgotrajni oskrbi (ZDOsk-1)",
+    "člen 2(1) Splošne uredbe",
+    "člen 4(6) Splošne uredbe",
+    "člen 6(1) Splošne uredbe",
+    "člen 9(2) Splošne uredbe"
+  ],
+  "povzetek": {
+    "dejansko_stanje": "Centri za socialno delo (vhodne točke) v postopkih ročne izdaje odločb za pravico do dolgotrajne oskrbe na domu, zaradi pomanjkanja informacijske podpore, začasno vodijo evidence v programu Excel, ki se nato naložijo v sistem Krpan CSD.",
+    "pravno_vprašanje": "Ali je dopustno, da center za socialno delo v postopkih ročne izdaje odločb po ZDOsk-1 začasno vodi ločene zbirke osebnih podatkov v programu Excel?",
+    "odgovor": "Začasno vodenje evidence v programu Excel ni nedopustno, če ima center za socialno delo pravno podlago za obdelavo teh podatkov, če se v Excelu obdeluje isti nabor podatkov za iste namene kot v primarni aplikaciji ter če je zagotovljen ustrezen nivo varnosti osebnih podatkov."
+  },
+  "url": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-s-strani-centrov-za-socialno-delo-v-postopkih-odločanja-in-izdajanja-odločb-brez-podpore-informacijskega-sistema-po-zdosk-1-dopolnitev-mnenja-1759817722"
+}

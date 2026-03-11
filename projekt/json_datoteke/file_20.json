@@ -1,0 +1,21 @@
+{
+  "naslov": "Pravna podlaga za obdelavo podatkov dobavitelja plina (dodatno)",
+  "URL": "https://www.ip-rs.si/mnenja-gdpr/pravna-podlaga-za-obdelavo-podatkov-dobavitelja-plina-dodatno",
+  "številka": "07121-1/2023/555",
+  "kategorije": [
+    "Pravne podlage"
+  ],
+  "datum": "25.04.2023",
+  "pravna_podlaga": [
+    "76. člen Zakona o varstvu osebnih podatkov na področju obravnavanja kaznivih dejanj (ZVOPOKD)",
+    "točka (c) prvega odstavka 6. člena Splošne uredbe",
+    "drugi odstavek 6. člena ZVOP-2",
+    "134. člen Zakona o oskrbi s plini (ZOP)"
+  ],
+  "povzetek": {
+    "dejansko_stanje": "Zaprositelj za mnenje je zaprosil za dodatna pojasnila glede pravne podlage za obdelavo osebnih podatkov uporabnikov sistema s strani dobaviteljev plina, konkretno ali 134. člen ZOP zahteva pogodbo ali privolitev tudi za podatke iz drugega odstavka tega člena.",
+    "pravno_vprašanje": "Ali drugi odstavek 134. člena ZOP predstavlja samostojno zakonsko pravno podlago za obdelavo tam naštetih osebnih podatkov uporabnikov sistema?",
+    "odgovor": "Pravno podlago za obdelavo podatkov, ki so taksativno našteti v drugem odstavku 134. člena ZOP, predstavlja zakon v smislu točke (c) prvega odstavka 6. člena Splošne uredbe in drugega odstavka 6. člena ZVOP-2. Namen in pravna podlaga sta ločena koncepta; medtem ko tretji in četrti odstavek 134. člena ZOP določata upravljavce in namene (ki lahko vključujejo pogodbo ali privolitev), drugi odstavek sam po sebi določa nabor podatkov, katerih obdelava temelji na zakonski obveznosti."
+  },
+  "url": "https://www.ip-rs.si/mnenja-zvop-2/pravna-podlaga-za-obdelavo-podatkov-dobavitelja-plina-dodatno-1683530963"
+}
