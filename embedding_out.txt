@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/d/hpc/home/dj18574/aiXpravo/embedding.py", line 121, in <module>
+    build_all_databases()
+  File "/d/hpc/home/dj18574/aiXpravo/embedding.py", line 80, in build_all_databases
+    titles, links = load_category(category_path)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/d/hpc/home/dj18574/aiXpravo/embedding.py", line 41, in load_category
+    titles.append(data["title"])
+                  ~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+srun: error: gwn05: task 0: Exited with exit code 1

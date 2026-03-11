@@ -1,3 +1,8 @@
+venv_setup.txt
+*.err
+*.out
+*.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
