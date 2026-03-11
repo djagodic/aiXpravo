@@ -1,0 +1,3 @@
+[submodule "ip-asistent"]
+	path = ip-asistent
+	url = https://github.com/jakafurlan/ip-asistent
