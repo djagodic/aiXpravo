@@ -1,0 +1,658 @@
+{
+  "base_query": "Registrska tablica kot osebni podatek",
+  "num_query_variants": 10,
+  "average_jaccard_vs_base_top20": 0.20815122008642895,
+  "interpretation": "Višji overlap med parafrazami pomeni bolj stabilen pravni iskalnik. To je uporaben keypoint za predstavitev robustnosti na različne formulacije vprašanja.",
+  "pairwise_top20_overlap": [
+    {
+      "query": "Registrska tablica kot osebni podatek",
+      "comparisons": [
+        {
+          "other_query": "Registrska tablica kot osebni podatek",
+          "intersection": 20,
+          "jaccard": 1.0,
+          "overlap_ratio": 1.0
+        },
+        {
+          "other_query": "Ali je registrska tablica osebni podatek",
+          "intersection": 17,
+          "jaccard": 0.7391304347826086,
+          "overlap_ratio": 0.85
+        },
+        {
+          "other_query": "Registrska oznaka vozila kot osebni podatek",
+          "intersection": 5,
+          "jaccard": 0.14285714285714285,
+          "overlap_ratio": 0.25
+        },
+        {
+          "other_query": "Je registrska številka vozila osebni podatek",
+          "intersection": 6,
+          "jaccard": 0.17647058823529413,
+          "overlap_ratio": 0.3
+        },
+        {
+          "other_query": "Avtomobilska registrska tablica in varstvo osebnih podatkov",
+          "intersection": 4,
+          "jaccard": 0.1111111111111111,
+          "overlap_ratio": 0.2
+        },
+        {
+          "other_query": "Identifikacija posameznika prek registrske tablice",
+          "intersection": 5,
+          "jaccard": 0.14285714285714285,
+          "overlap_ratio": 0.25
+        },
+        {
+          "other_query": "Obdelava registrskih tablic vozil kot osebnih podatkov",
+          "intersection": 3,
+          "jaccard": 0.08108108108108109,
+          "overlap_ratio": 0.15
+        },
+        {
+          "other_query": "Ali se podatek o registrski tablici šteje za osebni podatek",
+          "intersection": 12,
+          "jaccard": 0.42857142857142855,
+          "overlap_ratio": 0.6
+        },
+        {
+          "other_query": "Vehicle license plate as personal data",
+          "intersection": 1,
+          "jaccard": 0.02564102564102564,
+          "overlap_ratio": 0.05
+        },
+        {
+          "other_query": "Registration plate personal data GDPR",
+          "intersection": 1,
+          "jaccard": 0.02564102564102564,
+          "overlap_ratio": 0.05
+        }
+      ]
+    },
+    {
+      "query": "Ali je registrska tablica osebni podatek",
+      "comparisons": [
+        {
+          "other_query": "Registrska tablica kot osebni podatek",
+          "intersection": 17,
+          "jaccard": 0.7391304347826086,
+          "overlap_ratio": 0.85
+        },
+        {
+          "other_query": "Ali je registrska tablica osebni podatek",
+          "intersection": 20,
+          "jaccard": 1.0,
+          "overlap_ratio": 1.0
+        },
+        {
+          "other_query": "Registrska oznaka vozila kot osebni podatek",
+          "intersection": 5,
+          "jaccard": 0.14285714285714285,
+          "overlap_ratio": 0.25
+        },
+        {
+          "other_query": "Je registrska številka vozila osebni podatek",
+          "intersection": 7,
+          "jaccard": 0.21212121212121213,
+          "overlap_ratio": 0.35
+        },
+        {
+          "other_query": "Avtomobilska registrska tablica in varstvo osebnih podatkov",
+          "intersection": 5,
+          "jaccard": 0.14285714285714285,
+          "overlap_ratio": 0.25
+        },
+        {
+          "other_query": "Identifikacija posameznika prek registrske tablice",
+          "intersection": 5,
+          "jaccard": 0.14285714285714285,
+          "overlap_ratio": 0.25
+        },
+        {
+          "other_query": "Obdelava registrskih tablic vozil kot osebnih podatkov",
+          "intersection": 4,
+          "jaccard": 0.1111111111111111,
+          "overlap_ratio": 0.2
+        },
+        {
+          "other_query": "Ali se podatek o registrski tablici šteje za osebni podatek",
+          "intersection": 11,
+          "jaccard": 0.3793103448275862,
+          "overlap_ratio": 0.55
+        },
+        {
+          "other_query": "Vehicle license plate as personal data",
+          "intersection": 1,
+          "jaccard": 0.02564102564102564,
+          "overlap_ratio": 0.05
+        },
+        {
+          "other_query": "Registration plate personal data GDPR",
+          "intersection": 1,
+          "jaccard": 0.02564102564102564,
+          "overlap_ratio": 0.05
+        }
+      ]
+    },
+    {
+      "query": "Registrska oznaka vozila kot osebni podatek",
+      "comparisons": [
+        {
+          "other_query": "Registrska tablica kot osebni podatek",
+          "intersection": 5,
+          "jaccard": 0.14285714285714285,
+          "overlap_ratio": 0.25
+        },
+        {
+          "other_query": "Ali je registrska tablica osebni podatek",
+          "intersection": 5,
+          "jaccard": 0.14285714285714285,
+          "overlap_ratio": 0.25
+        },
+        {
+          "other_query": "Registrska oznaka vozila kot osebni podatek",
+          "intersection": 20,
+          "jaccard": 1.0,
+          "overlap_ratio": 1.0
+        },
+        {
+          "other_query": "Je registrska številka vozila osebni podatek",
+          "intersection": 14,
+          "jaccard": 0.5384615384615384,
+          "overlap_ratio": 0.7
+        },
+        {
+          "other_query": "Avtomobilska registrska tablica in varstvo osebnih podatkov",
+          "intersection": 11,
+          "jaccard": 0.3793103448275862,
+          "overlap_ratio": 0.55
+        },
+        {
+          "other_query": "Identifikacija posameznika prek registrske tablice",
+          "intersection": 0,
+          "jaccard": 0.0,
+          "overlap_ratio": 0.0
+        },
+        {
+          "other_query": "Obdelava registrskih tablic vozil kot osebnih podatkov",
+          "intersection": 8,
+          "jaccard": 0.25,
+          "overlap_ratio": 0.4
+        },
+        {
+          "other_query": "Ali se podatek o registrski tablici šteje za osebni podatek",
+          "intersection": 3,
+          "jaccard": 0.08108108108108109,
+          "overlap_ratio": 0.15
+        },
+        {
+          "other_query": "Vehicle license plate as personal data",
+          "intersection": 8,
+          "jaccard": 0.25,
+          "overlap_ratio": 0.4
+        },
+        {
+          "other_query": "Registration plate personal data GDPR",
+          "intersection": 6,
+          "jaccard": 0.17647058823529413,
+          "overlap_ratio": 0.3
+        }
+      ]
+    },
+    {
+      "query": "Je registrska številka vozila osebni podatek",
+      "comparisons": [
+        {
+          "other_query": "Registrska tablica kot osebni podatek",
+          "intersection": 6,
+          "jaccard": 0.17647058823529413,
+          "overlap_ratio": 0.3
+        },
+        {
+          "other_query": "Ali je registrska tablica osebni podatek",
+          "intersection": 7,
+          "jaccard": 0.21212121212121213,
+          "overlap_ratio": 0.35
+        },
+        {
+          "other_query": "Registrska oznaka vozila kot osebni podatek",
+          "intersection": 14,
+          "jaccard": 0.5384615384615384,
+          "overlap_ratio": 0.7
+        },
+        {
+          "other_query": "Je registrska številka vozila osebni podatek",
+          "intersection": 20,
+          "jaccard": 1.0,
+          "overlap_ratio": 1.0
+        },
+        {
+          "other_query": "Avtomobilska registrska tablica in varstvo osebnih podatkov",
+          "intersection": 14,
+          "jaccard": 0.5384615384615384,
+          "overlap_ratio": 0.7
+        },
+        {
+          "other_query": "Identifikacija posameznika prek registrske tablice",
+          "intersection": 1,
+          "jaccard": 0.02564102564102564,
+          "overlap_ratio": 0.05
+        },
+        {
+          "other_query": "Obdelava registrskih tablic vozil kot osebnih podatkov",
+          "intersection": 9,
+          "jaccard": 0.2903225806451613,
+          "overlap_ratio": 0.45
+        },
+        {
+          "other_query": "Ali se podatek o registrski tablici šteje za osebni podatek",
+          "intersection": 6,
+          "jaccard": 0.17647058823529413,
+          "overlap_ratio": 0.3
+        },
+        {
+          "other_query": "Vehicle license plate as personal data",
+          "intersection": 8,
+          "jaccard": 0.25,
+          "overlap_ratio": 0.4
+        },
+        {
+          "other_query": "Registration plate personal data GDPR",
+          "intersection": 7,
+          "jaccard": 0.21212121212121213,
+          "overlap_ratio": 0.35
+        }
+      ]
+    },
+    {
+      "query": "Avtomobilska registrska tablica in varstvo osebnih podatkov",
+      "comparisons": [
+        {
+          "other_query": "Registrska tablica kot osebni podatek",
+          "intersection": 4,
+          "jaccard": 0.1111111111111111,
+          "overlap_ratio": 0.2
+        },
+        {
+          "other_query": "Ali je registrska tablica osebni podatek",
+          "intersection": 5,
+          "jaccard": 0.14285714285714285,
+          "overlap_ratio": 0.25
+        },
+        {
+          "other_query": "Registrska oznaka vozila kot osebni podatek",
+          "intersection": 11,
+          "jaccard": 0.3793103448275862,
+          "overlap_ratio": 0.55
+        },
+        {
+          "other_query": "Je registrska številka vozila osebni podatek",
+          "intersection": 14,
+          "jaccard": 0.5384615384615384,
+          "overlap_ratio": 0.7
+        },
+        {
+          "other_query": "Avtomobilska registrska tablica in varstvo osebnih podatkov",
+          "intersection": 20,
+          "jaccard": 1.0,
+          "overlap_ratio": 1.0
+        },
+        {
+          "other_query": "Identifikacija posameznika prek registrske tablice",
+          "intersection": 2,
+          "jaccard": 0.05263157894736842,
+          "overlap_ratio": 0.1
+        },
+        {
+          "other_query": "Obdelava registrskih tablic vozil kot osebnih podatkov",
+          "intersection": 13,
+          "jaccard": 0.48148148148148145,
+          "overlap_ratio": 0.65
+        },
+        {
+          "other_query": "Ali se podatek o registrski tablici šteje za osebni podatek",
+          "intersection": 5,
+          "jaccard": 0.14285714285714285,
+          "overlap_ratio": 0.25
+        },
+        {
+          "other_query": "Vehicle license plate as personal data",
+          "intersection": 10,
+          "jaccard": 0.3333333333333333,
+          "overlap_ratio": 0.5
+        },
+        {
+          "other_query": "Registration plate personal data GDPR",
+          "intersection": 8,
+          "jaccard": 0.25,
+          "overlap_ratio": 0.4
+        }
+      ]
+    },
+    {
+      "query": "Identifikacija posameznika prek registrske tablice",
+      "comparisons": [
+        {
+          "other_query": "Registrska tablica kot osebni podatek",
+          "intersection": 5,
+          "jaccard": 0.14285714285714285,
+          "overlap_ratio": 0.25
+        },
+        {
+          "other_query": "Ali je registrska tablica osebni podatek",
+          "intersection": 5,
+          "jaccard": 0.14285714285714285,
+          "overlap_ratio": 0.25
+        },
+        {
+          "other_query": "Registrska oznaka vozila kot osebni podatek",
+          "intersection": 0,
+          "jaccard": 0.0,
+          "overlap_ratio": 0.0
+        },
+        {
+          "other_query": "Je registrska številka vozila osebni podatek",
+          "intersection": 1,
+          "jaccard": 0.02564102564102564,
+          "overlap_ratio": 0.05
+        },
+        {
+          "other_query": "Avtomobilska registrska tablica in varstvo osebnih podatkov",
+          "intersection": 2,
+          "jaccard": 0.05263157894736842,
+          "overlap_ratio": 0.1
+        },
+        {
+          "other_query": "Identifikacija posameznika prek registrske tablice",
+          "intersection": 20,
+          "jaccard": 1.0,
+          "overlap_ratio": 1.0
+        },
+        {
+          "other_query": "Obdelava registrskih tablic vozil kot osebnih podatkov",
+          "intersection": 3,
+          "jaccard": 0.08108108108108109,
+          "overlap_ratio": 0.15
+        },
+        {
+          "other_query": "Ali se podatek o registrski tablici šteje za osebni podatek",
+          "intersection": 6,
+          "jaccard": 0.17647058823529413,
+          "overlap_ratio": 0.3
+        },
+        {
+          "other_query": "Vehicle license plate as personal data",
+          "intersection": 2,
+          "jaccard": 0.05263157894736842,
+          "overlap_ratio": 0.1
+        },
+        {
+          "other_query": "Registration plate personal data GDPR",
+          "intersection": 3,
+          "jaccard": 0.08108108108108109,
+          "overlap_ratio": 0.15
+        }
+      ]
+    },
+    {
+      "query": "Obdelava registrskih tablic vozil kot osebnih podatkov",
+      "comparisons": [
+        {
+          "other_query": "Registrska tablica kot osebni podatek",
+          "intersection": 3,
+          "jaccard": 0.08108108108108109,
+          "overlap_ratio": 0.15
+        },
+        {
+          "other_query": "Ali je registrska tablica osebni podatek",
+          "intersection": 4,
+          "jaccard": 0.1111111111111111,
+          "overlap_ratio": 0.2
+        },
+        {
+          "other_query": "Registrska oznaka vozila kot osebni podatek",
+          "intersection": 8,
+          "jaccard": 0.25,
+          "overlap_ratio": 0.4
+        },
+        {
+          "other_query": "Je registrska številka vozila osebni podatek",
+          "intersection": 9,
+          "jaccard": 0.2903225806451613,
+          "overlap_ratio": 0.45
+        },
+        {
+          "other_query": "Avtomobilska registrska tablica in varstvo osebnih podatkov",
+          "intersection": 13,
+          "jaccard": 0.48148148148148145,
+          "overlap_ratio": 0.65
+        },
+        {
+          "other_query": "Identifikacija posameznika prek registrske tablice",
+          "intersection": 3,
+          "jaccard": 0.08108108108108109,
+          "overlap_ratio": 0.15
+        },
+        {
+          "other_query": "Obdelava registrskih tablic vozil kot osebnih podatkov",
+          "intersection": 20,
+          "jaccard": 1.0,
+          "overlap_ratio": 1.0
+        },
+        {
+          "other_query": "Ali se podatek o registrski tablici šteje za osebni podatek",
+          "intersection": 3,
+          "jaccard": 0.08108108108108109,
+          "overlap_ratio": 0.15
+        },
+        {
+          "other_query": "Vehicle license plate as personal data",
+          "intersection": 12,
+          "jaccard": 0.42857142857142855,
+          "overlap_ratio": 0.6
+        },
+        {
+          "other_query": "Registration plate personal data GDPR",
+          "intersection": 10,
+          "jaccard": 0.3333333333333333,
+          "overlap_ratio": 0.5
+        }
+      ]
+    },
+    {
+      "query": "Ali se podatek o registrski tablici šteje za osebni podatek",
+      "comparisons": [
+        {
+          "other_query": "Registrska tablica kot osebni podatek",
+          "intersection": 12,
+          "jaccard": 0.42857142857142855,
+          "overlap_ratio": 0.6
+        },
+        {
+          "other_query": "Ali je registrska tablica osebni podatek",
+          "intersection": 11,
+          "jaccard": 0.3793103448275862,
+          "overlap_ratio": 0.55
+        },
+        {
+          "other_query": "Registrska oznaka vozila kot osebni podatek",
+          "intersection": 3,
+          "jaccard": 0.08108108108108109,
+          "overlap_ratio": 0.15
+        },
+        {
+          "other_query": "Je registrska številka vozila osebni podatek",
+          "intersection": 6,
+          "jaccard": 0.17647058823529413,
+          "overlap_ratio": 0.3
+        },
+        {
+          "other_query": "Avtomobilska registrska tablica in varstvo osebnih podatkov",
+          "intersection": 5,
+          "jaccard": 0.14285714285714285,
+          "overlap_ratio": 0.25
+        },
+        {
+          "other_query": "Identifikacija posameznika prek registrske tablice",
+          "intersection": 6,
+          "jaccard": 0.17647058823529413,
+          "overlap_ratio": 0.3
+        },
+        {
+          "other_query": "Obdelava registrskih tablic vozil kot osebnih podatkov",
+          "intersection": 3,
+          "jaccard": 0.08108108108108109,
+          "overlap_ratio": 0.15
+        },
+        {
+          "other_query": "Ali se podatek o registrski tablici šteje za osebni podatek",
+          "intersection": 20,
+          "jaccard": 1.0,
+          "overlap_ratio": 1.0
+        },
+        {
+          "other_query": "Vehicle license plate as personal data",
+          "intersection": 1,
+          "jaccard": 0.02564102564102564,
+          "overlap_ratio": 0.05
+        },
+        {
+          "other_query": "Registration plate personal data GDPR",
+          "intersection": 0,
+          "jaccard": 0.0,
+          "overlap_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "query": "Vehicle license plate as personal data",
+      "comparisons": [
+        {
+          "other_query": "Registrska tablica kot osebni podatek",
+          "intersection": 1,
+          "jaccard": 0.02564102564102564,
+          "overlap_ratio": 0.05
+        },
+        {
+          "other_query": "Ali je registrska tablica osebni podatek",
+          "intersection": 1,
+          "jaccard": 0.02564102564102564,
+          "overlap_ratio": 0.05
+        },
+        {
+          "other_query": "Registrska oznaka vozila kot osebni podatek",
+          "intersection": 8,
+          "jaccard": 0.25,
+          "overlap_ratio": 0.4
+        },
+        {
+          "other_query": "Je registrska številka vozila osebni podatek",
+          "intersection": 8,
+          "jaccard": 0.25,
+          "overlap_ratio": 0.4
+        },
+        {
+          "other_query": "Avtomobilska registrska tablica in varstvo osebnih podatkov",
+          "intersection": 10,
+          "jaccard": 0.3333333333333333,
+          "overlap_ratio": 0.5
+        },
+        {
+          "other_query": "Identifikacija posameznika prek registrske tablice",
+          "intersection": 2,
+          "jaccard": 0.05263157894736842,
+          "overlap_ratio": 0.1
+        },
+        {
+          "other_query": "Obdelava registrskih tablic vozil kot osebnih podatkov",
+          "intersection": 12,
+          "jaccard": 0.42857142857142855,
+          "overlap_ratio": 0.6
+        },
+        {
+          "other_query": "Ali se podatek o registrski tablici šteje za osebni podatek",
+          "intersection": 1,
+          "jaccard": 0.02564102564102564,
+          "overlap_ratio": 0.05
+        },
+        {
+          "other_query": "Vehicle license plate as personal data",
+          "intersection": 20,
+          "jaccard": 1.0,
+          "overlap_ratio": 1.0
+        },
+        {
+          "other_query": "Registration plate personal data GDPR",
+          "intersection": 12,
+          "jaccard": 0.42857142857142855,
+          "overlap_ratio": 0.6
+        }
+      ]
+    },
+    {
+      "query": "Registration plate personal data GDPR",
+      "comparisons": [
+        {
+          "other_query": "Registrska tablica kot osebni podatek",
+          "intersection": 1,
+          "jaccard": 0.02564102564102564,
+          "overlap_ratio": 0.05
+        },
+        {
+          "other_query": "Ali je registrska tablica osebni podatek",
+          "intersection": 1,
+          "jaccard": 0.02564102564102564,
+          "overlap_ratio": 0.05
+        },
+        {
+          "other_query": "Registrska oznaka vozila kot osebni podatek",
+          "intersection": 6,
+          "jaccard": 0.17647058823529413,
+          "overlap_ratio": 0.3
+        },
+        {
+          "other_query": "Je registrska številka vozila osebni podatek",
+          "intersection": 7,
+          "jaccard": 0.21212121212121213,
+          "overlap_ratio": 0.35
+        },
+        {
+          "other_query": "Avtomobilska registrska tablica in varstvo osebnih podatkov",
+          "intersection": 8,
+          "jaccard": 0.25,
+          "overlap_ratio": 0.4
+        },
+        {
+          "other_query": "Identifikacija posameznika prek registrske tablice",
+          "intersection": 3,
+          "jaccard": 0.08108108108108109,
+          "overlap_ratio": 0.15
+        },
+        {
+          "other_query": "Obdelava registrskih tablic vozil kot osebnih podatkov",
+          "intersection": 10,
+          "jaccard": 0.3333333333333333,
+          "overlap_ratio": 0.5
+        },
+        {
+          "other_query": "Ali se podatek o registrski tablici šteje za osebni podatek",
+          "intersection": 0,
+          "jaccard": 0.0,
+          "overlap_ratio": 0.0
+        },
+        {
+          "other_query": "Vehicle license plate as personal data",
+          "intersection": 12,
+          "jaccard": 0.42857142857142855,
+          "overlap_ratio": 0.6
+        },
+        {
+          "other_query": "Registration plate personal data GDPR",
+          "intersection": 20,
+          "jaccard": 1.0,
+          "overlap_ratio": 1.0
+        }
+      ]
+    }
+  ]
+}

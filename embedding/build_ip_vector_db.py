@@ -1,3 +1,18 @@
+# BUILD
+# python build_ip_vector_db.py build \
+#   --input-json ip_mnenja.json \
+#   --output-dir artifacts_test \
+#   --batch-size 8 \
+#   --truncate-dim 128
+
+# SEARCH
+# python build_ip_vector_db.py search \
+#   --output-dir artifacts_test \
+#   --query "mladoletnik in družbeno omrežje" \
+#   -k 2 \
+#   --truncate-dim 128
+
+
 #!/usr/bin/env python3
 import os
 import json

@@ -1,0 +1,166 @@
+{
+  "method": "Reciprocal Rank Fusion",
+  "purpose": "Consensus ranking across paraphrases of the same legal question",
+  "top_results": [
+    {
+      "rank": 19,
+      "score": 0.4567696452140808,
+      "title": "Sistemi za avtomatsko prepoznavo registrskih tablic in izvajanje biometrijskih ukrepov na javnih površinah",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/videonadzor-javnih-površin-1677224569",
+      "rrf_score": 0.11815483783508901,
+      "consensus_rank": 1
+    },
+    {
+      "rank": 6,
+      "score": 0.4806635081768036,
+      "title": "Obdelava osebnih podatkov v sklepu o dodelitvi (oz. nedodelitvi) službenih stanovanj na razpisu za oddajo službenih stanovanj",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-v-sklepu-o-dodelitvi-oz-nedodelitvi-službenih-stanovanj-na-razpisu-za-oddajo-službenih-stanovanj-1704789694",
+      "rrf_score": 0.10312795499739533,
+      "consensus_rank": 2
+    },
+    {
+      "rank": 1,
+      "score": 0.49146780371665955,
+      "title": "Objava podatkov registriranih vozil",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/objava-podatkov-registriranih-vozil-1736160616",
+      "rrf_score": 0.0963109749994996,
+      "consensus_rank": 3
+    },
+    {
+      "rank": 2,
+      "score": 0.49146780371665955,
+      "title": "Objava podatkov registriranih vozil",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/objava-podatkov-registriranih-vozil-1724752777",
+      "rrf_score": 0.0947886119257087,
+      "consensus_rank": 4
+    },
+    {
+      "rank": 15,
+      "score": 0.41680458188056946,
+      "title": "Obdelava osebnih podatkov zaradi najema nadomestnega avtomobila",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-zaradi-najema-nadomestnega-avtomobila-1689662847",
+      "rrf_score": 0.09110216083710382,
+      "consensus_rank": 5
+    },
+    {
+      "rank": 4,
+      "score": 0.48421359062194824,
+      "title": "Objava osebnih podatkov na podlagi 131. in 132. člena Zakona o obnovi, razvoju in zagotavljanju finančnih sredstev",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/objava-osebnih-podatkov-na-podlagi-131-in-132-člena-zakona-o-obnovi-razvoju-in-zagotavljanju-finančnih-sredstev-1726725612",
+      "rrf_score": 0.0864804655027769,
+      "consensus_rank": 6
+    },
+    {
+      "rank": 5,
+      "score": 0.4823407530784607,
+      "title": "Hramba posebnih vrst osebnih podatkov v upravnem spisu po pravnomočnosti odločitve upravnega organa",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/hramba-posebnih-vrst-osebnih-podatkov-v-upravnem-spisu-po-pravnomočnosti-odločitve-upravnega-organa-1681989529",
+      "rrf_score": 0.08564087087188492,
+      "consensus_rank": 7
+    },
+    {
+      "rank": 1,
+      "score": 0.5119613409042358,
+      "title": "Ali je številka merilnega mesta osebni podatek",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/ali-je-številka-merilnega-mesta-osebni-podatek-1687330315",
+      "rrf_score": 0.08049914362613164,
+      "consensus_rank": 8
+    },
+    {
+      "rank": 5,
+      "score": 0.5337893962860107,
+      "title": "Posredovaje dodatnih identifikacijskih osebnih podatkov prejemnikov pomoči ob poplavah ministrstvu",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/posredovaje-dodatnih-identifikacijskih-osebnih-podatkov-prejemnikov-pomoči-ob-poplavah-ministrstvu-1714392799",
+      "rrf_score": 0.07654080879887332,
+      "consensus_rank": 9
+    },
+    {
+      "rank": 13,
+      "score": 0.466871440410614,
+      "title": "Javno dostopna davčna številka samostojnega podjetnika na AJPES v postopkih preverjanja identitete posameznika",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/javno-dostopna-davčna-številka-samostojnega-podjetnika-na-ajpes-v-postopkih-preverjanja-identitete-posameznika-1694684005",
+      "rrf_score": 0.07328819729394187,
+      "consensus_rank": 10
+    },
+    {
+      "rank": 9,
+      "score": 0.4303014576435089,
+      "title": "Posredovanje podatkov o lastniku motornega vozila",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/posredovanje-podatkov-o-lastniku-motornega-vozila-1717401811",
+      "rrf_score": 0.07137359208297424,
+      "consensus_rank": 11
+    },
+    {
+      "rank": 10,
+      "score": 0.4290398359298706,
+      "title": "ANPR na javnih površinah in pridobivanje podatkov iz evidence registriranih vozil",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/anpr-na-javnih-površinah-in-pridobivanje-podatkov-iz-evidence-registriranih-vozil-1740563880",
+      "rrf_score": 0.06983752595316717,
+      "consensus_rank": 12
+    },
+    {
+      "rank": 19,
+      "score": 0.4658191204071045,
+      "title": "Obdelava osebnih podatkov s strani občine v okviru javnega razpisa",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-s-strani-občine-v-okviru-javnega-razpisa-1701688300",
+      "rrf_score": 0.06969347784109774,
+      "consensus_rank": 13
+    },
+    {
+      "rank": 18,
+      "score": 0.42749279737472534,
+      "title": "Obdelava osebnih podatkov s strani centrov za socialno delo v postopkih odločanja in izdajanja odločb brez podpore informacijskega sistema po ZDOsk-1",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-s-strani-centrov-za-socialno-delo-v-postopkih-odločanja-in-izdajanja-odločb-brez-podpore-informacijskega-sistema-po-zdosk-1-1758516846",
+      "rrf_score": 0.06756913021618904,
+      "consensus_rank": 14
+    },
+    {
+      "rank": 14,
+      "score": 0.4665771424770355,
+      "title": "Pravica dostopa posameznika, na katerega se nanašajo osebni podatki",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/pravica-dostopa-posameznika-na-katerega-se-nanašajo-osebni-podatki-1684139114",
+      "rrf_score": 0.05463905463905464,
+      "consensus_rank": 15
+    },
+    {
+      "rank": 17,
+      "score": 0.42804020643234253,
+      "title": "Obdelava osebnih podatkov s strani centrov za socialno delo v postopkih odločanja in izdajanja odločb brez podpore informacijskega sistema po ZDOsk-1 - DOPOLNITEV MNENJA",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-s-strani-centrov-za-socialno-delo-v-postopkih-odločanja-in-izdajanja-odločb-brez-podpore-informacijskega-sistema-po-zdosk-1-dopolnitev-mnenja-1759817722",
+      "rrf_score": 0.05435566848610327,
+      "consensus_rank": 16
+    },
+    {
+      "rank": 20,
+      "score": 0.42171528935432434,
+      "title": "Izjema od informacij, ki jih je treba zagotoviti, kadar osebni podatki niso bili pridobljeni od posameznika, na katerega se ti nanašajo",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/izjema-od-informacij-ki-jih-je-treba-zagotoviti-kadar-osebni-podatki-niso-bili-pridobljeni-od-posameznika-na-katerega-se-ti-nanašajo-1747733273",
+      "rrf_score": 0.054237845823260813,
+      "consensus_rank": 17
+    },
+    {
+      "rank": 15,
+      "score": 0.4665771424770355,
+      "title": "Pravica dostopa posameznika, na katerega se nanašajo osebni podatki",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/pravica-dostopa-posameznika-na-katerega-se-nanašajo-osebni-podatki-1678442779",
+      "rrf_score": 0.05389973210868733,
+      "consensus_rank": 18
+    },
+    {
+      "rank": 19,
+      "score": 0.41117405891418457,
+      "title": "Obdelava osebnih podatkov za namene akreditacije, organizacije dogodkov in prevozov v okviru Sistema za akreditacije in organizacijo dogodkov in prevozov (SAOD)",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/obdelava-osebnih-podatkov-za-namene-akreditacije-organizacije-dogodkov-in-prevozov-v-okviru-sistema-za-akreditacije-in-organizacijo-dogodkov-in-prevozov-saod-1706000231",
+      "rrf_score": 0.05345213659975649,
+      "consensus_rank": 19
+    },
+    {
+      "rank": 2,
+      "score": 0.48743540048599243,
+      "title": "Pravna podlaga za obdelavo podatkov dobavitelja plina (dodatno)",
+      "link": "https://www.ip-rs.si/mnenja-zvop-2/pravna-podlaga-za-obdelavo-podatkov-dobavitelja-plina-dodatno-1683530963",
+      "rrf_score": 0.04595669465311533,
+      "consensus_rank": 20
+    }
+  ]
+}
