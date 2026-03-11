@@ -55,33 +55,33 @@ The system combines **legal databases + semantic search + AI reasoning**.
 
 The system is built as a **multi-stage AI pipeline** designed to reduce hallucinations and maximize legal relevance.
 
-User Question
-│
-▼
-Semantic Embedding
-│
-▼
-Vector Database Search
-│
-Top ~20 Most Similar Legal Opinions
-│
-▼
-Browser Use
-(collects context & extracts data)
-│
-▼
+User Question\
+│\
+▼\
+Semantic Embedding\
+│\
+▼\
+Vector Database Search\
+│\
+Top ~20 Most Similar Legal Opinions\
+│\
+▼\
+Browser Use\
+(collects context & extracts data)\
+│\
+▼\
 Claude AI Reasoning
 
 * relevance ranking
 
 * contradiction detection
 
-* synthesis
-│
-▼
-Final Structured Answer
-│
-▼
+* synthesis\
+│\
+▼\
+Final Structured Answer\
+│\
+▼\
 Lovable Web App
 
 ---
