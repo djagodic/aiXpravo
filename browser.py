@@ -6,6 +6,7 @@ import re
 from pathlib import Path
 from typing import Any, Dict
 from urllib import request
+from urllib.parse import urlsplit, urlunsplit, quote
 
 PROMPT_TEMPLATE = """
 Si pravni strokovnjak za področje varstva osebnih podatkov. Iz vsebine spletne strani mnenja Informacijskega pooblaščenca (IP-RS) ekstrahiraj naslednje podatke in jih vrni izključno kot veljaven JSON brez kakršnega koli dodatnega besedila.
@@ -26,6 +27,15 @@ Vsebina spletne strani:
 {vsebina_strani}
 """.strip()
 
+def encode_url(url: str) -> str:
+    parts = urlsplit(url)
+    return urlunsplit((
+        parts.scheme,
+        parts.netloc,
+        quote(parts.path, safe="/"),
+        parts.query,
+        parts.fragment,
+    ))
 
 class ExtractionError(RuntimeError):
     pass
@@ -55,6 +65,7 @@ def parse_args() -> argparse.Namespace:
 
 
 async def run_extraction(url: str, output_path: Path, timeout: int) -> None:
+    url = encode_url(url)
     req = request.Request(url, method="GET")
     with request.urlopen(req, timeout=timeout) as resp:
         html = resp.read().decode("utf-8", errors="ignore")

@@ -5,8 +5,13 @@ import subprocess
 import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional
+import unicodedata
+import re
 
-
+def safe_filename(text):
+    text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
+    text = re.sub(r"[^A-Za-z0-9]+", "_", text).strip("_")
+    return text.lower()
 
 def load_artifacts(artifacts_dir: Path):
     metadata_path = artifacts_dir / "metadata.json"
@@ -104,7 +109,7 @@ def run_test(folder: Path) -> Dict[str, Any]:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="End-to-end pipeline: vector search -> scrape -> contradiction test")
     parser.add_argument("--query", required=True, help="User query")
-    parser.add_argument("--artifacts-dir", default="artifacts_fast", help="Directory with vector DB artifacts")
+    parser.add_argument("--artifacts-dir", default="artifacts", help="Directory with vector DB artifacts")
     parser.add_argument("--top-k", type=int, default=20, help="How many nearest opinions to process")
     parser.add_argument("--output-dir", default="json_datoteke", help="Folder for extracted JSON files")
     parser.add_argument("--results-json", default="pipeline_results.json", help="Path for final pipeline result JSON")
